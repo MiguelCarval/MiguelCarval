@@ -30,7 +30,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MiguelCarval/MiguelCarval/output/snake.svg" alt="Snake animation" />
 
-###
 
