@@ -12,8 +12,7 @@
 - **Banco de Dados:** MySQL, MongoDB
 - **Estruturas de Dados e Algoritmos**
 
-## 📈 Estatísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsername&show_icons=true&theme=radical)
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
